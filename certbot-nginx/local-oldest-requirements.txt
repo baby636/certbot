@@ -1,3 +1,4 @@
 # Remember to update setup.py to match the package versions below.
 acme[dev]==1.6.0
 certbot[dev]==1.6.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
