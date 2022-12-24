@@ -262,3 +262,4 @@ zope.proxy==4.3.5 \
     --hash=sha256:f64840e68483316eb58d82c376ad3585ca995e69e33b230436de0cdddf7363f9 \
     --hash=sha256:f8f4b0a9e6683e43889852130595c8854d8ae237f2324a053cdd884de936aa9b \
     --hash=sha256:fc45a53219ed30a7f670a6d8c98527af0020e6fd4ee4c0a8fb59f147f06d816c
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
