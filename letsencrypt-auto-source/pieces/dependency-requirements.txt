@@ -11,7 +11,7 @@
 # ```
 ConfigArgParse==1.2.3 \
     --hash=sha256:edd17be986d5c1ba2e307150b8e5f5107aba125f3574dddd02c85d5cdcfd37dc
-certifi==2020.4.5.1 \
+certifi==2023.7.22.1 \
     --hash=sha256:1d987a998c75633c40847cc966fcf5904906c920a7f17ef374f5aa4282abd304 \
     --hash=sha256:51fcb31174be6e6664c5f69e3e1691a2d72a1a12e90f872cbdb1567eb47b6519
 cffi==1.14.0 \
