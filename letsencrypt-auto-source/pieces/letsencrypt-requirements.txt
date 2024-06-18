@@ -8,3 +8,4 @@
 letsencrypt==0.7.0 \
     --hash=sha256:105a5fb107e45bcd0722eb89696986dcf5f08a86a321d6aef25a0c7c63375ade \
     --hash=sha256:c36e532c486a7e92155ee09da54b436a3c420813ec1c590b98f635d924720de9
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
