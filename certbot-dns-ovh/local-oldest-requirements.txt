@@ -2,3 +2,4 @@
 acme[dev]==0.31.0
 certbot[dev]==1.1.0
 dns-lexicon==2.7.14
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
